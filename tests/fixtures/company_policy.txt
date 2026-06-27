@@ -1,0 +1,146 @@
+NOVA TECH SOLUTIONS — EMPLOYEE HANDBOOK (v4.2, Effective: January 1, 2025)
+
+=============================================================================
+SECTION 1: WORKING HOURS AND ATTENDANCE
+=============================================================================
+
+1.1 Standard Working Hours
+The standard workweek at Nova Tech Solutions consists of 40 hours, Monday through
+Friday. Core hours are 10:00 AM to 4:00 PM in the employee's local time zone.
+Employees are expected to be available and responsive during core hours.
+
+1.2 Remote Work Policy
+Employees may work remotely up to 3 days per week after completing a 90-day
+onboarding period. Remote work requests must be submitted to the direct manager
+at least 48 hours in advance via the HR portal. Fully remote roles are defined
+separately in individual employment contracts.
+
+1.3 Overtime and Compensation
+Overtime is defined as hours worked beyond 40 hours in a single workweek.
+Non-exempt employees receive 1.5x their base hourly rate for overtime.
+Overtime must be pre-approved in writing by the department head.
+
+1.4 Attendance and Punctuality
+Employees are expected to maintain punctual attendance. Three unexcused absences
+within a 90-day rolling window will trigger a formal performance review.
+
+=============================================================================
+SECTION 2: LEAVE POLICIES
+=============================================================================
+
+2.1 Paid Time Off (PTO)
+Full-time employees accrue PTO at the following rates:
+  - Year 1-2:    15 days per year  (1.25 days/month)
+  - Year 3-5:    20 days per year  (1.67 days/month)
+  - Year 6+:     25 days per year  (2.08 days/month)
+
+PTO must be approved by the direct manager and requested at least 5 business
+days in advance for periods of 3 days or more. Unused PTO of up to 10 days may
+be carried over to the following calendar year. Any balance above 10 days is
+forfeited on December 31.
+
+2.2 Sick Leave
+Employees receive 10 sick days per calendar year, non-accruing. Sick leave does
+not carry over and is not paid out upon termination. A doctor's certificate is
+required for sick absences exceeding 3 consecutive days.
+
+2.3 Parental Leave
+Primary caregivers receive 16 weeks of fully paid parental leave upon the birth,
+adoption, or foster placement of a child. Secondary caregivers receive 4 weeks
+of fully paid parental leave. Leave must commence within 12 months of the
+qualifying event. Employees must have completed 12 months of continuous service
+to be eligible for parental leave.
+
+2.4 Bereavement Leave
+Employees are entitled to 5 paid bereavement leave days for the death of an
+immediate family member (spouse, child, parent, sibling). 3 days are provided
+for extended family members (grandparent, in-law, aunt/uncle).
+
+=============================================================================
+SECTION 3: COMPENSATION AND BENEFITS
+=============================================================================
+
+3.1 Salary Review Cycle
+Performance-based salary reviews occur annually in March. The company targets
+a 3–5% merit increase pool. Individual increases are determined by the
+performance rating on a scale of 1 to 5, where 5 is exceptional.
+
+3.2 Health Insurance
+Nova Tech Solutions covers 90% of individual health insurance premiums and 70%
+of dependent premiums. Dental and vision coverage is included in the base plan
+at no additional cost. Open enrollment runs each November for coverage effective
+January 1 of the following year.
+
+3.3 Retirement Plan (401k)
+The company matches 100% of employee contributions up to 4% of gross salary.
+Employees are immediately vested upon enrollment. The 401k plan is administered
+by Fidelity Investments.
+
+3.4 Professional Development Budget
+Each full-time employee receives an annual professional development budget of
+$2,000, which may be used for courses, certifications, conferences, or books.
+Budget resets on April 1 each year. Unused budget does not carry over.
+
+=============================================================================
+SECTION 4: CODE OF CONDUCT
+=============================================================================
+
+4.1 Anti-Harassment Policy
+Nova Tech Solutions maintains a zero-tolerance policy for harassment, bullying,
+or discrimination based on race, gender, age, religion, disability, national
+origin, or sexual orientation. Violations will result in immediate investigation
+and potential termination.
+
+4.2 Confidentiality and Data Protection
+Employees must not disclose proprietary company information, client data, or
+trade secrets to external parties. All employees are required to sign an NDA
+on their first day. Violations of the confidentiality policy are grounds for
+immediate termination and may result in legal action.
+
+4.3 Conflict of Interest
+Employees must disclose any outside business interests or investments that may
+conflict with their responsibilities at Nova Tech Solutions. This includes
+consulting for competitors or holding more than 5% equity in a competing firm.
+
+=============================================================================
+SECTION 5: PERFORMANCE MANAGEMENT
+=============================================================================
+
+5.1 Performance Review Cycle
+Formal performance reviews are conducted twice per year: mid-year in June and
+year-end in December. Reviews use a structured competency framework covering
+technical skills, collaboration, initiative, and impact.
+
+5.2 Performance Improvement Plan (PIP)
+Employees receiving a performance rating of 1 or 2 for two consecutive reviews
+may be placed on a Performance Improvement Plan. A PIP runs for 60 days and
+includes weekly check-ins with the manager and HR. Failure to meet PIP targets
+may result in termination.
+
+5.3 Promotion Criteria
+Promotions are merit-based and require: (a) a performance rating of 4 or above
+in the most recent annual review, (b) manager recommendation, and (c) approval
+by the department director.
+
+=============================================================================
+SECTION 6: EQUIPMENT AND TECHNOLOGY
+=============================================================================
+
+6.1 Company Devices
+Nova Tech Solutions provides a laptop and necessary peripherals to all full-time
+employees. Devices remain the property of the company and must be returned upon
+termination. Employees may request a $500 home office stipend to purchase a
+monitor, keyboard, or ergonomic accessories.
+
+6.2 Software and Licensing
+All software installed on company devices must be approved by the IT department.
+Personal software, games, or unlicensed tools are prohibited on company devices.
+
+6.3 Security Compliance
+Employees must enable full-disk encryption and set a screen lock timeout of no
+more than 5 minutes on all company devices. Multi-factor authentication (MFA)
+is mandatory for all company accounts.
+
+=============================================================================
+END OF DOCUMENT — Nova Tech Solutions HR Department
+=============================================================================

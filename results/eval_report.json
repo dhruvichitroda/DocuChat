@@ -1,0 +1,735 @@
+{
+  "total_questions": 30,
+  "hit_rate_at_1": 0.8,
+  "hit_rate_at_3": 0.8667,
+  "hit_rate_at_6": 0.9667,
+  "mrr": 0.8472,
+  "precision_at_6": 0.2611,
+  "avg_latency_ms": 12.2,
+  "per_document": {
+    "company_policy.txt": {
+      "hit_rate_at_1": 0.8,
+      "hit_rate_at_3": 0.8,
+      "hit_rate_at_6": 1.0,
+      "mrr": 0.85
+    },
+    "product_spec.txt": {
+      "hit_rate_at_1": 0.8,
+      "hit_rate_at_3": 0.9,
+      "hit_rate_at_6": 1.0,
+      "mrr": 0.8583
+    },
+    "research_paper.txt": {
+      "hit_rate_at_1": 0.8,
+      "hit_rate_at_3": 0.9,
+      "hit_rate_at_6": 0.9,
+      "mrr": 0.8333
+    }
+  },
+  "per_question": [
+    {
+      "id": "CP-01",
+      "question": "How many remote work days are employees allowed per week?",
+      "category": "Policy / Numbers",
+      "doc": "company_policy.txt",
+      "gold_keywords": [
+        "3 days per week",
+        "remote"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 16.85169100164785,
+      "top_sources": [
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "research_paper.txt",
+        "research_paper.txt"
+      ]
+    },
+    {
+      "id": "CP-02",
+      "question": "What is the PTO accrual rate for an employee in their first year?",
+      "category": "Policy / Numbers",
+      "doc": "company_policy.txt",
+      "gold_keywords": [
+        "15 days per year",
+        "1.25"
+      ],
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_6": true,
+      "reciprocal_rank": 0.25,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 13.746390999585856,
+      "top_sources": [
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt"
+      ]
+    },
+    {
+      "id": "CP-03",
+      "question": "How many sick days do employees receive each year?",
+      "category": "Policy / Numbers",
+      "doc": "company_policy.txt",
+      "gold_keywords": [
+        "10 sick days"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 12.763660997734405,
+      "top_sources": [
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "research_paper.txt",
+        "company_policy.txt"
+      ]
+    },
+    {
+      "id": "CP-04",
+      "question": "How many weeks of parental leave does a primary caregiver get?",
+      "category": "Policy / Numbers",
+      "doc": "company_policy.txt",
+      "gold_keywords": [
+        "16 weeks"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 12.774466998962453,
+      "top_sources": [
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "product_spec.txt"
+      ]
+    },
+    {
+      "id": "CP-05",
+      "question": "What percentage of health insurance premiums does the company cover for the employee?",
+      "category": "Policy / Percentages",
+      "doc": "company_policy.txt",
+      "gold_keywords": [
+        "90%"
+      ],
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_6": true,
+      "reciprocal_rank": 0.25,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 13.727411998843309,
+      "top_sources": [
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "research_paper.txt",
+        "research_paper.txt"
+      ]
+    },
+    {
+      "id": "CP-06",
+      "question": "What is the annual professional development budget per employee?",
+      "category": "Policy / Numbers",
+      "doc": "company_policy.txt",
+      "gold_keywords": [
+        "$2,000",
+        "2,000"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 12.037166001391597,
+      "top_sources": [
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt"
+      ]
+    },
+    {
+      "id": "CP-07",
+      "question": "Who administers the company's 401k retirement plan?",
+      "category": "Policy / Facts",
+      "doc": "company_policy.txt",
+      "gold_keywords": [
+        "Fidelity"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 11.97291700009373,
+      "top_sources": [
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "research_paper.txt"
+      ]
+    },
+    {
+      "id": "CP-08",
+      "question": "How long does a Performance Improvement Plan run?",
+      "category": "Policy / Numbers",
+      "doc": "company_policy.txt",
+      "gold_keywords": [
+        "60 days"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 10.824539996974636,
+      "top_sources": [
+        "company_policy.txt",
+        "research_paper.txt",
+        "company_policy.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "company_policy.txt"
+      ]
+    },
+    {
+      "id": "CP-09",
+      "question": "What is the screen lock timeout requirement on company devices?",
+      "category": "Policy / Security",
+      "doc": "company_policy.txt",
+      "gold_keywords": [
+        "5 minutes"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 11.223825997149106,
+      "top_sources": [
+        "company_policy.txt",
+        "company_policy.txt",
+        "research_paper.txt",
+        "company_policy.txt",
+        "research_paper.txt",
+        "company_policy.txt"
+      ]
+    },
+    {
+      "id": "CP-10",
+      "question": "How many bereavement days are given for an immediate family member?",
+      "category": "Policy / Numbers",
+      "doc": "company_policy.txt",
+      "gold_keywords": [
+        "5 paid bereavement"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 10.171853999054292,
+      "top_sources": [
+        "company_policy.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "research_paper.txt",
+        "company_policy.txt",
+        "company_policy.txt"
+      ]
+    },
+    {
+      "id": "PS-01",
+      "question": "What is the peak CEC efficiency of the Helios X1 inverter?",
+      "category": "Spec / Efficiency",
+      "doc": "product_spec.txt",
+      "gold_keywords": [
+        "97.8%"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.5,
+      "latency_ms": 11.078321000240976,
+      "top_sources": [
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt"
+      ]
+    },
+    {
+      "id": "PS-02",
+      "question": "What is the maximum DC input power of the inverter?",
+      "category": "Spec / Electrical",
+      "doc": "product_spec.txt",
+      "gold_keywords": [
+        "6,000 W",
+        "6000"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.3333333333333333,
+      "latency_ms": 10.628365002048668,
+      "top_sources": [
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt"
+      ]
+    },
+    {
+      "id": "PS-03",
+      "question": "What is the rated AC output power?",
+      "category": "Spec / Electrical",
+      "doc": "product_spec.txt",
+      "gold_keywords": [
+        "5,000 W",
+        "5 kW"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 11.492245001136325,
+      "top_sources": [
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt"
+      ]
+    },
+    {
+      "id": "PS-04",
+      "question": "How many MPPT inputs does the Helios X1 support?",
+      "category": "Spec / Electrical",
+      "doc": "product_spec.txt",
+      "gold_keywords": [
+        "2",
+        "MPPT"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 1.0,
+      "latency_ms": 12.18801099821576,
+      "top_sources": [
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt"
+      ]
+    },
+    {
+      "id": "PS-05",
+      "question": "What is the ingress protection rating of the inverter?",
+      "category": "Spec / Environmental",
+      "doc": "product_spec.txt",
+      "gold_keywords": [
+        "IP65"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 11.229236999497516,
+      "top_sources": [
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt"
+      ]
+    },
+    {
+      "id": "PS-06",
+      "question": "What is the weight of the Helios X1 unit?",
+      "category": "Spec / Physical",
+      "doc": "product_spec.txt",
+      "gold_keywords": [
+        "18.4 kg"
+      ],
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_6": true,
+      "reciprocal_rank": 0.25,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 11.130161001347005,
+      "top_sources": [
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "company_policy.txt"
+      ]
+    },
+    {
+      "id": "PS-07",
+      "question": "What is the standard warranty period for the inverter?",
+      "category": "Spec / Warranty",
+      "doc": "product_spec.txt",
+      "gold_keywords": [
+        "10 years"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.3333333333333333,
+      "latency_ms": 10.984339998685755,
+      "top_sources": [
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt"
+      ]
+    },
+    {
+      "id": "PS-08",
+      "question": "What communication protocols does the inverter support?",
+      "category": "Spec / Communication",
+      "doc": "product_spec.txt",
+      "gold_keywords": [
+        "Modbus",
+        "SunSpec"
+      ],
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 0.3333333333333333,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 12.07321900074021,
+      "top_sources": [
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt"
+      ]
+    },
+    {
+      "id": "PS-09",
+      "question": "What is the operating temperature range of the inverter?",
+      "category": "Spec / Environmental",
+      "doc": "product_spec.txt",
+      "gold_keywords": [
+        "-25",
+        "+60",
+        "60\u00b0C"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 11.829297996882815,
+      "top_sources": [
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt"
+      ]
+    },
+    {
+      "id": "PS-10",
+      "question": "What safety standard certifications does the inverter have?",
+      "category": "Spec / Certifications",
+      "doc": "product_spec.txt",
+      "gold_keywords": [
+        "UL 1741"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.3333333333333333,
+      "latency_ms": 12.344493003183743,
+      "top_sources": [
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt",
+        "product_spec.txt"
+      ]
+    },
+    {
+      "id": "RP-01",
+      "question": "What percentage reduction in executive function was found in severely sleep-deprived workers?",
+      "category": "Research / Statistics",
+      "doc": "research_paper.txt",
+      "gold_keywords": [
+        "34%"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.3333333333333333,
+      "latency_ms": 11.782208999647992,
+      "top_sources": [
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt"
+      ]
+    },
+    {
+      "id": "RP-02",
+      "question": "How many participants were in the study?",
+      "category": "Research / Methodology",
+      "doc": "research_paper.txt",
+      "gold_keywords": [
+        "342"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.3333333333333333,
+      "latency_ms": 10.30155599801219,
+      "top_sources": [
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "company_policy.txt"
+      ]
+    },
+    {
+      "id": "RP-03",
+      "question": "What device was used to objectively measure sleep duration?",
+      "category": "Research / Methodology",
+      "doc": "research_paper.txt",
+      "gold_keywords": [
+        "Fitbit"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.3333333333333333,
+      "latency_ms": 11.736554999515647,
+      "top_sources": [
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt"
+      ]
+    },
+    {
+      "id": "RP-04",
+      "question": "What was the increase in decision-making errors in the severe CPSD group?",
+      "category": "Research / Statistics",
+      "doc": "research_paper.txt",
+      "gold_keywords": [
+        "41%"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 12.245029996847734,
+      "top_sources": [
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "company_policy.txt",
+        "research_paper.txt"
+      ]
+    },
+    {
+      "id": "RP-05",
+      "question": "By how much did sleep-deprived workers overestimate their performance?",
+      "category": "Research / Statistics",
+      "doc": "research_paper.txt",
+      "gold_keywords": [
+        "18 percentage points"
+      ],
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 0.3333333333333333,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 12.202017001982313,
+      "top_sources": [
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt"
+      ]
+    },
+    {
+      "id": "RP-06",
+      "question": "How long was the study conducted?",
+      "category": "Research / Methodology",
+      "doc": "research_paper.txt",
+      "gold_keywords": [
+        "12-week",
+        "12 weeks"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.5,
+      "latency_ms": 12.958482999238186,
+      "top_sources": [
+        "research_paper.txt",
+        "company_policy.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt"
+      ]
+    },
+    {
+      "id": "RP-07",
+      "question": "What is the recommended sleep duration for adults according to the National Sleep Foundation?",
+      "category": "Research / Facts",
+      "doc": "research_paper.txt",
+      "gold_keywords": [
+        "7 to 9 hours",
+        "7\u20139 hours"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 15.302819996577455,
+      "top_sources": [
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt"
+      ]
+    },
+    {
+      "id": "RP-08",
+      "question": "Did caffeine fully compensate for decision-making deficits in severely sleep-deprived workers?",
+      "category": "Research / Conclusions",
+      "doc": "research_paper.txt",
+      "gold_keywords": [
+        "no significant",
+        "cannot compensate",
+        "no"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.6666666666666666,
+      "latency_ms": 13.925899998866953,
+      "top_sources": [
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt"
+      ]
+    },
+    {
+      "id": "RP-09",
+      "question": "Which institution conducted the study?",
+      "category": "Research / Facts",
+      "doc": "research_paper.txt",
+      "gold_keywords": [
+        "Stanford"
+      ],
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_6": false,
+      "reciprocal_rank": 0.0,
+      "precision_at_6": 0.0,
+      "latency_ms": 12.015623000479536,
+      "top_sources": [
+        "research_paper.txt",
+        "company_policy.txt",
+        "company_policy.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt"
+      ]
+    },
+    {
+      "id": "RP-10",
+      "question": "What cognitive test battery was used in the assessments?",
+      "category": "Research / Methodology",
+      "doc": "research_paper.txt",
+      "gold_keywords": [
+        "CANTAB",
+        "Cambridge Neuropsychological"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_6": true,
+      "reciprocal_rank": 1.0,
+      "precision_at_6": 0.16666666666666666,
+      "latency_ms": 12.484742001106497,
+      "top_sources": [
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt",
+        "research_paper.txt"
+      ]
+    }
+  ]
+}

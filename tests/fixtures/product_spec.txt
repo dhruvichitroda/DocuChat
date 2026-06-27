@@ -1,0 +1,132 @@
+HELIOS X1 SOLAR INVERTER — TECHNICAL PRODUCT SPECIFICATION
+Document Number: HX1-SPEC-2024-09 | Revision: C | Date: September 15, 2024
+Manufacturer: SolarTech Industries, Austin TX 78701
+
+=============================================================================
+1. PRODUCT OVERVIEW
+=============================================================================
+
+The Helios X1 is a grid-tied, single-phase string solar inverter designed for
+residential and light-commercial photovoltaic (PV) installations. It features
+a maximum DC input power of 6,000 watts and supports dual Maximum Power Point
+Tracking (MPPT) channels, enabling the use of two independent string arrays
+with different orientations or shading profiles.
+
+Key differentiators include a 97.8% peak CEC efficiency, a built-in
+consumption monitoring CT clamp, and Wi-Fi/Ethernet dual connectivity with
+the SolarTech Cloud monitoring platform.
+
+=============================================================================
+2. ELECTRICAL SPECIFICATIONS
+=============================================================================
+
+2.1 DC Input (Photovoltaic Side)
+  Maximum DC Input Power     : 6,000 W
+  Maximum DC Input Voltage   : 600 V
+  Start-up Voltage           : 100 V
+  MPPT Operating Range       : 100 V – 550 V
+  Number of MPPT Inputs      : 2 (independent)
+  Maximum Input Current/MPPT : 15 A
+  Maximum Short-Circuit Current/MPPT : 20 A
+  Maximum Number of Strings  : 2 (1 per MPPT)
+
+2.2 AC Output (Grid Side)
+  Rated Output Power         : 5,000 W (5 kW)
+  Maximum Apparent Power     : 5,500 VA
+  Nominal AC Voltage         : 240 V (split-phase)
+  AC Voltage Range           : 211 V – 264 V
+  Nominal AC Frequency       : 60 Hz
+  Frequency Range            : 59.3 Hz – 60.5 Hz
+  Maximum Continuous Current : 20.8 A
+  Power Factor               : > 0.99 at rated power
+  Total Harmonic Distortion  : < 3% at rated power
+
+2.3 Efficiency
+  Peak CEC Efficiency        : 97.8%
+  European Weighted Efficiency: 96.5%
+  Standby Power Consumption  : < 1.2 W
+
+=============================================================================
+3. MECHANICAL AND ENVIRONMENTAL SPECIFICATIONS
+=============================================================================
+
+3.1 Physical Dimensions
+  Width                      : 350 mm
+  Height                     : 520 mm
+  Depth                      : 185 mm
+  Weight                     : 18.4 kg
+
+3.2 Environmental Ratings
+  Operating Temperature Range: -25°C to +60°C
+  Humidity (non-condensing)  : 0% to 95% RH
+  Ingress Protection Rating  : IP65 (fully weatherproof, outdoor rated)
+  Altitude                   : Up to 2,000 m without power derating
+
+3.3 Cooling
+  Cooling Method             : Variable-speed fan + passive heatsink
+  Noise Level (at 1 m)       : < 40 dB(A) during normal operation
+
+=============================================================================
+4. COMMUNICATION AND MONITORING
+=============================================================================
+
+4.1 Connectivity
+  Interfaces                 : Wi-Fi 802.11 b/g/n, Ethernet (RJ-45)
+  Communication Protocols    : Modbus TCP/IP, SunSpec, REST API
+  Monitoring Platform        : SolarTech Cloud (free 10-year subscription)
+  Mobile App                 : iOS 14+ and Android 10+ (SolarTech App)
+
+4.2 Display and Indicators
+  Front Panel Display        : 3.5-inch color LCD touchscreen
+  LED Indicators             : Power (green), Grid Fault (red), Warning (amber)
+  Real-time metrics displayed: PV power, AC power, daily yield, total yield,
+                               grid voltage, grid frequency, inverter temperature
+
+4.3 Data Logging
+  Internal Memory            : 1 GB (approx. 5 years of 5-minute interval data)
+  Export Formats             : CSV, JSON via REST API
+  Cloud Retention            : 10 years of historical production data
+
+=============================================================================
+5. PROTECTION FEATURES
+=============================================================================
+
+  Anti-islanding Protection  : Active frequency shifting (UL 1741 compliant)
+  Over/Under Voltage         : Automatic AC disconnect
+  Over/Under Frequency       : Automatic AC disconnect
+  DC Reverse Polarity        : Protected (no damage)
+  Ground Fault Protection    : GFDI (per NEC 690.5)
+  Arc Fault Circuit Interrupt: AFCI (per NEC 690.11)
+  DC Switch                  : Integrated 600 V DC disconnect
+
+=============================================================================
+6. CERTIFICATIONS AND COMPLIANCE
+=============================================================================
+
+  Safety                     : UL 1741, CSA C22.2 No. 107.1
+  EMC                        : FCC Part 15 Class B
+  Grid Interconnect          : IEEE 1547-2018, Rule 21 (CA), Rule 14H (HI)
+  RoHS Compliant             : Yes (Directive 2011/65/EU)
+
+=============================================================================
+7. WARRANTY AND SUPPORT
+=============================================================================
+
+  Standard Warranty          : 10 years parts and labor
+  Extended Warranty          : Optional 15-year or 20-year plans available
+  Technical Support          : 24/7 phone and email support
+  Support Phone              : 1-800-SOL-TECH (1-800-765-8324)
+  Support Email              : support@solartech-ind.com
+
+=============================================================================
+8. ORDERING INFORMATION
+=============================================================================
+
+  Model Number               : HX1-5K-240-US
+  Replacement Parts Kit      : HX1-RPK-001
+  Mounting Hardware Kit      : HX1-MHK-002
+  CT Clamp (100A, split-core) : HX1-CT-100A
+
+=============================================================================
+END OF DOCUMENT — SolarTech Industries Technical Documentation Team
+=============================================================================

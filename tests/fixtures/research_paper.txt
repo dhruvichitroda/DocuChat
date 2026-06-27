@@ -1,0 +1,152 @@
+RESEARCH SUMMARY: THE EFFECTS OF SLEEP DEPRIVATION ON COGNITIVE PERFORMANCE
+AND DECISION-MAKING IN KNOWLEDGE WORKERS
+
+Published: Journal of Occupational Neuroscience, Vol. 18, Issue 3, 2024
+Authors: Dr. Maya Patel, Dr. Jonathan Rivera, Dr. Soo-Yeon Kim
+Institution: Stanford Sleep Research Center, Stanford University
+DOI: 10.1109/JON.2024.0418
+
+=============================================================================
+ABSTRACT
+=============================================================================
+
+This study investigated the relationship between chronic partial sleep
+deprivation and cognitive performance metrics in 342 knowledge workers over a
+12-week period. Participants who averaged fewer than 6 hours of sleep per night
+demonstrated a 34% reduction in executive function scores, a 28% decrease in
+working memory capacity, and a 41% increase in decision-making errors compared
+to the well-rested control group (7–9 hours per night). Notably, participants
+consistently underestimated their own impairment level, with self-reported
+performance scores averaging 18 percentage points higher than objective test
+results. These findings have significant implications for workplace productivity
+policies, particularly in high-stakes industries.
+
+=============================================================================
+1. INTRODUCTION
+=============================================================================
+
+Sleep is a fundamental biological requirement for cognitive function. The
+National Sleep Foundation recommends 7 to 9 hours of sleep per night for adults
+aged 18 to 64. Despite this, a 2023 CDC survey found that 35.2% of American
+adults regularly sleep fewer than 7 hours per night. Among knowledge workers —
+those whose primary work involves creating, processing, or communicating
+information — rates of chronic sleep restriction are even higher, estimated at
+42% according to a 2022 Gallup workplace survey.
+
+Prior research has established links between acute sleep deprivation (defined
+as 24+ hours without sleep) and severe cognitive impairment. However, the
+cumulative effects of chronic partial sleep deprivation (CPSD), defined in this
+study as consistently sleeping 5–6 hours per night, have been less studied in
+naturalistic workplace settings.
+
+This study aimed to: (1) quantify the specific cognitive domains most affected
+by CPSD, (2) measure the gap between perceived and actual performance, and (3)
+assess whether caffeine consumption can adequately offset CPSD-related deficits.
+
+=============================================================================
+2. METHODOLOGY
+=============================================================================
+
+2.1 Participants
+342 knowledge workers (software engineers, financial analysts, medical
+professionals, and marketing strategists) were recruited via LinkedIn and
+professional associations. Mean age was 34.2 years (SD = 7.1). 54% identified
+as male, 44% as female, 2% as non-binary. All participants were employed
+full-time (40+ hours/week) and reported no pre-existing sleep disorders.
+
+2.2 Sleep Measurement
+Sleep duration was objectively measured using Fitbit Charge 5 wristbands worn
+continuously for the 12-week study period. Self-reported sleep estimates were
+collected weekly via a mobile survey. Participants were divided into three
+groups:
+  - Control Group    : 7–9 hours/night (n = 114)
+  - Mild CPSD Group  : 6–7 hours/night (n = 112)
+  - Severe CPSD Group: < 6 hours/night (n = 116)
+
+2.3 Cognitive Assessments
+Participants completed cognitive assessments every two weeks using the
+Cambridge Neuropsychological Test Automated Battery (CANTAB), measuring:
+  - Executive Function (Spatial Working Memory, Intra-Extra Dimensional Set Shift)
+  - Working Memory Capacity (Spatial Span, Pattern Recognition Memory)
+  - Decision-Making Accuracy (Cambridge Gambling Task, Iowa Gambling Task)
+  - Sustained Attention (Rapid Visual Information Processing)
+  - Processing Speed (Simple and Choice Reaction Time)
+
+2.4 Caffeine Consumption Tracking
+Daily caffeine intake was logged by participants via the mobile app. Doses were
+categorized as low (< 200 mg/day), moderate (200–400 mg/day), and high (> 400
+mg/day). The average daily caffeine intake across all participants was 287 mg.
+
+=============================================================================
+3. RESULTS
+=============================================================================
+
+3.1 Executive Function
+Severe CPSD participants showed a 34% reduction in composite executive function
+scores compared to the control group (p < 0.001). The Mild CPSD group showed
+a 14% reduction (p < 0.01). Deficits were most pronounced in tasks requiring
+task-switching and response inhibition, which are critical for complex
+problem-solving and project management.
+
+3.2 Working Memory
+Working memory capacity in the Severe CPSD group decreased by 28% from
+baseline over the 12-week period (p < 0.001). Interestingly, the Mild CPSD
+group showed a 9% reduction, suggesting a non-linear relationship between
+sleep restriction severity and working memory impairment.
+
+3.3 Decision-Making Accuracy
+The most striking finding was a 41% increase in decision-making errors in
+the Severe CPSD group (p < 0.001), with errors concentrated in high-uncertainty
+decision scenarios. The Iowa Gambling Task results showed that sleep-deprived
+participants were significantly more likely to favor short-term rewards over
+long-term optimal strategies.
+
+3.4 The Performance Perception Gap
+A critical finding was the "metacognitive blindspot": participants in the
+Severe CPSD group self-rated their performance an average of 18 percentage
+points higher than their objective test scores. This overconfidence effect
+increased progressively over the 12-week period, suggesting that prolonged
+sleep deprivation impairs not just performance, but also the ability to
+accurately self-assess that performance.
+
+3.5 Caffeine as a Mitigating Factor
+High caffeine consumption (> 400 mg/day) partially offset attention and
+processing speed deficits in the Mild CPSD group (+11% improvement vs.
+low caffeine users in the same group). However, caffeine showed no significant
+mitigating effect on executive function or decision-making accuracy in the
+Severe CPSD group. This suggests that caffeine can restore alertness but
+cannot compensate for deep cognitive impairments caused by severe sleep loss.
+
+=============================================================================
+4. DISCUSSION AND CONCLUSIONS
+=============================================================================
+
+4.1 Key Conclusions
+  1. Chronic partial sleep deprivation significantly impairs executive function
+     (-34%), working memory (-28%), and decision-making accuracy (+41% errors).
+  2. Sleep-deprived workers dramatically overestimate their own performance,
+     creating a dangerous "metacognitive blindspot" in workplace settings.
+  3. Caffeine restores surface alertness but does NOT compensate for deep
+     cognitive deficits in severely sleep-deprived individuals.
+  4. Even mild sleep restriction (6–7 hrs) produces measurable cognitive
+     deficits of 9–14%, relevant for safety-critical decisions.
+
+4.2 Implications
+  - Organizations should consider sleep health as an occupational safety issue
+  - High-stakes decisions (e.g., surgery, financial trading, code review) should
+    not be scheduled during known circadian low points (2–4 AM, early afternoon)
+  - Meeting fatigue and after-hours communications significantly worsen CPSD
+
+4.3 Limitations
+  - Sample was self-selected (LinkedIn) and skewed toward tech workers
+  - Fitbit sleep tracking has ±15 min accuracy vs. polysomnography
+  - Study did not control for individual chronotype (morning vs. evening types)
+
+=============================================================================
+FUNDING: This study was funded by the National Institutes of Health (NIH)
+Grant R01HL145099 and a research gift from the Wellbeing Research Foundation.
+
+CONFLICTS OF INTEREST: The authors declare no competing interests.
+=============================================================================
+END OF DOCUMENT
+=============================================================================
